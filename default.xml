@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <remote name="origin"
+          fetch="." />
+ 
+  <default remote="origin"
+           revision="master" />
+ 
+  <project path="repo-demo/tbl" name="tbl" />
+  <project path="repo-demo/DeviceArch" name="DeviceArch" />
+</manifest>
