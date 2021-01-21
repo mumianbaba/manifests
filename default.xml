@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="." />
+  <remote name="origin" fetch="https://github.com" />
   <default remote="origin" revision="master" />
-  <project path="repo-demo/tbl" name="tbl" />
-  <project path="repo-demo/DeviceArch" name="DeviceArch" />
+  <project path="mumianbaba/tbl" name="mumianbaba/tbl" />
+  <project path="mumianbaba/DeviceArch" name="mumianbaba/DeviceArch" />
 </manifest>
